@@ -13,4 +13,5 @@ URL Shortening: Users can input long URLs and receive unique shortened links.
 Expiration Feature: Users can set an expiration time for the shortened links (in seconds).
 Redirection: Shortened URLs redirect users to the original long URLs.
 
+Project Flow:
 ![URL Shortener](https://github.com/naveengatla/urlshortener/assets/75887314/9261d972-b7a4-4b51-b0dd-0a503b7855c9)
